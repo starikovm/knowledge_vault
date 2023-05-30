@@ -1,0 +1,1 @@
+When changing element styles which don’t affect the element’s position on a page (such as background-color, border-color, visibility), the browser just repaints the element again with the new styles applied (that means a “repaint” or “restyle” is happening).

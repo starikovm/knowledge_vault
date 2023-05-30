@@ -1,0 +1,1 @@
+https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1
